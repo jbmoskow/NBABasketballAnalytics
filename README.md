@@ -1,4 +1,4 @@
-# The-Process-Revisted
+# NBABasketballAnalytics
 ## Bayesian analysis of NBA draft picks
 
 ### Collecting the data
