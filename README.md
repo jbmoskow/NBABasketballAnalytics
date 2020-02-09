@@ -8,5 +8,5 @@ Running the *Scraper.py* scripts (which use *beautifulsoup*) I obtained data fro
 By looking ahead at future seasons, I was able to determine the probability of a Top 5 draft pick ending up as Top 10 player (according to VORP). This is a conditional probability that can be solved for using [Bayes Rule](https://en.wikipedia.org/wiki/Bayes%27_theorem).
 
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;P(A|B)=\frac{P(B|A)P(A)}{P(B)}"/>
 
