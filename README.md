@@ -10,5 +10,7 @@ By looking ahead at future seasons, I was able to determine the probability of a
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;P(A|B)=\frac{P(B|A)P(A)}{P(B)}"/>
 
 where *P(A)* is our prior, the probability that a randomly selected NBA player is a Top 10 player
+
 where *P(B)* is the probability of a randomly selected NBA player being a Top 5 draft pick.
+
 where *P(B|A)* is our likelihood, what is the probability of a Top 10 player being a Top 5 draft pick.
