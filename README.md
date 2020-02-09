@@ -14,3 +14,5 @@ where *P(A)* is our prior, the probability that a randomly selected NBA player i
 where *P(B)* is the probability of a randomly selected NBA player being a Top 5 draft pick.
 
 where *P(B|A)* is our likelihood, what is the probability of a Top 10 player being a Top 5 draft pick.
+
+### Posted to [reddit.com/r/nba](https://www.reddit.com/r/nba/comments/91h5lk/oc_the_process_revisited_evaluating_the_odds_of/?ref=share&ref_source=link) the largest NBA discussion community online.
